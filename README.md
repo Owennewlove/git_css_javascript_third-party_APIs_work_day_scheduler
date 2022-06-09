@@ -24,11 +24,11 @@ N/A
 
 ## Usage
 
-The following link leads you to the github repository used when making this website:
+The following links lead you to the github repository used when making this website as well as the website itself:
 
-https://github.com/Owennewlove/git_html_css_javascript_timed_quiz.git
+https://github.com/Owennewlove/git_css_javascript_third-party_APIs_work_day_scheduler.git
 
-https://owennewlove.github.io/git_html_css_javascript_timed_quiz/
+ https://owennewlove.github.io/git_css_javascript_third-party_APIs_work_day_scheduler/
 
     ```md
 ![alt text](./assets/images/Screen%20Shot%202022-06-09%20at%206.50.04%20PM.png)
